@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.855cbb4d.css",
+    "main.js": "/portfolio/static/js/main.39a75f8f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/portfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/MyBlog.jpeg": "/portfolio/static/media/MyBlog.3a8976a350fe81d7e78e.jpeg",
+    "static/media/myPic.jpeg": "/portfolio/static/media/myPic.2ae3a30a6cd0aec4acd9.jpeg",
+    "static/media/WeatherApp.jpeg": "/portfolio/static/media/WeatherApp.04d339e825a9e6fcea20.jpeg",
+    "static/media/Todo.jpeg": "/portfolio/static/media/Todo.bfe273f32976e3814c72.jpeg",
+    "static/media/OverlayS.PNG": "/portfolio/static/media/OverlayS.136f5a00be2b3b7bf454.PNG",
+    "static/media/OverlayL.PNG": "/portfolio/static/media/OverlayL.c6b2dd882a5aa4e0a994.PNG",
+    "index.html": "/portfolio/index.html",
+    "static/media/github.svg": "/portfolio/static/media/github.5d97bcd91e4f840d62362971717fb54e.svg",
+    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.0e2300bfc0acdc64e6e9770aadf2dcd6.svg",
+    "static/media/link.svg": "/portfolio/static/media/link.e57fe67926f17de16a0e6ace3b6c493a.svg",
+    "main.855cbb4d.css.map": "/portfolio/static/css/main.855cbb4d.css.map",
+    "main.39a75f8f.js.map": "/portfolio/static/js/main.39a75f8f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/portfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.855cbb4d.css",
+    "static/js/main.39a75f8f.js"
+  ]
+}
