@@ -16,6 +16,7 @@ import Link from "../src/assets/icons/link.svg";
 //--------Projects imports--------//
 import Todo from "../src/assets/images/Todo.jpeg";
 import MyBlog from "../src/assets/images/MyBlog.jpeg";
+import Dashboard from "../src/assets/images/Dashboard.png";
 import WeatherApp from "../src/assets/images/WeatherApp.jpeg";
 import Footer from "./layout/Footer";
 
@@ -82,6 +83,15 @@ const links =[
 
 const projects = [
   {
+    id:0,
+    title:"Filtering Dashboard",
+    img: Dashboard,
+    content: "A dashboard to get and filter data plans based on several criterias like OfferID,Service,Type of customers,Duration",
+    link:"https://github.com/Elhamdorudian/filtering-dashboard",
+    github:"https://github.com/Elhamdorudian/filtering-dashboard"
+  }
+  ,
+  {
     id:1,
     title:"Personal Blog",
     img: MyBlog,
@@ -121,17 +131,17 @@ function App() {
       isSelected: true,
       company: "Mobile Telecommunication Company of Iran",
       location: "Tehran, Iran",
-      date: "May 2018 - Aug 2022",
-      content: "I have been working as a front-end developer for around two years. some of my skills are: JS, React, TS, SASS, Bootstrap,...",
+      date: "Dec. 2020 - Aug. 2022",
+      content: "I have been working as a front-end developer for almost two years. some of my skills are: JS, React, TS, SASS, React Native, MUI,...",
     },
     {
       id: 2,
-      title: "Business Analyst",
+      title: "Digital Services Analyst",
       isSelected: false,
       company: "Mobile Telecommunication Company of Iran",
       location: "Tehran, Iran",
-      date: "May 2016 - Aug 2018",
-      content: "I was a Business Analyist in a Telecomunication company acting as a facilitator between technical and business teams for more than 3 years, familiar with Jira, PowerBI,...",
+      date: "Jun. 2016 - Nov. 2020",
+      content: "I was a Digital Services Analyist in a Telecomunication company acting as a facilitator between technical and business teams for more than 4 years, familiar with Jira, PowerBI, Agile, Scrum, ...",
     },
     {
       id: 3,
@@ -149,7 +159,7 @@ function App() {
       company: "Sharif University of Technology",
       location: "Tehran, Iran",
       date: "Sep 2008 - Aug 2013",
-      content: "As I have always been interested in Math, I had decided to study Engineering in my BSc.",
+      content: "As I have always been interested in math, analytical thinking, and modeling... So I had decided to study Engineering in my BSc.",
     },
 ]);
 

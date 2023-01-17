@@ -30,10 +30,7 @@ const AboutMe = () => {
         <div className="section-content" >
           <div className="about-me-content">
             <p className="main-content-desc" data-aos="fade-up">
-              Hello! My name is Elham and I enjoy creating things that live on the
-              internet. I started my career as a marketing specialist at a
-              telecommunication company and got interested in programming and
-              specially web design on 2020. Here are a few technologies I have
+            Welcome to my portfolio! My name is Elham. As a web developer, I'm constantly learning and experimenting with new technologies, and looking for new challenges to push my skills to the next level.Here are a few technologies I have
               been working with recently:
             </p>
             <ul className="about-skills main-content-desc">

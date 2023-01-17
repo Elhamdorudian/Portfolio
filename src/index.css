@@ -18,15 +18,15 @@ code {
 * {
   box-sizing: border-box;
 }
-
+/* --gray: #8892B0; */
 :root {
-  --orange: rgb(214, 164, 37);
+  --orange: rgb(218, 157, 43);
   --lightorange: rgb(233, 203, 112);
   --navy: #011627;
   --lightNavy: rgb(2, 36, 63);
   --lighterNavy: rgb(14, 64, 104);
   --white: #CCD6f6;
-  --gray: #8892B0;
+  --gray: #bdc2d5;
   --dark:#484d5c;
   --black:#010d17;
 }
