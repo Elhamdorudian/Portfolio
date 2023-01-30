@@ -48,8 +48,7 @@ const ProjectsDetail = ({projects, links}) => {
                 {" "}
                 <path d={links[0].path}></path>
               </svg>
-            </a>
-            <a href={project.link} target="_blank" rel="noreferrer" className="social-links">
+            </a>{project.link ?             <a href={project.link} target="_blank" rel="noreferrer" className="social-links">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 x="0px"
@@ -61,7 +60,8 @@ const ProjectsDetail = ({projects, links}) => {
                 {" "}
                 <path d={links[1].path}></path>
               </svg>
-            </a>
+            </a> : <></>}
+
             </div>
 
           </div>

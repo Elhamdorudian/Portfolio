@@ -14,10 +14,11 @@ import Linkedin from "../src/assets/icons/linkedin.svg";
 import Link from "../src/assets/icons/link.svg";
 
 //--------Projects imports--------//
-import Todo from "../src/assets/images/Todo.jpeg";
+// import Todo from "../src/assets/images/Todo.jpeg";
 import MyBlog from "../src/assets/images/MyBlog.jpeg";
 import Dashboard from "../src/assets/images/Dashboard.png";
 import WeatherApp from "../src/assets/images/WeatherApp.jpeg";
+import RepoList from "../src/assets/images/RepoList.png";
 import Footer from "./layout/Footer";
 
 
@@ -87,7 +88,7 @@ const projects = [
     title:"Filtering Dashboard",
     img: Dashboard,
     content: "A dashboard to get and filter data plans based on several criterias like OfferID,Service,Type of customers,Duration",
-    link:"https://github.com/Elhamdorudian/filtering-dashboard",
+    // link:"https://github.com/Elhamdorudian/filtering-dashboard",
     github:"https://github.com/Elhamdorudian/filtering-dashboard"
   }
   ,
@@ -101,20 +102,28 @@ const projects = [
   },
   {
     id:2,
-    title:"Weather App",
+    title:"Weather Wizard",
     img: WeatherApp,
     content: "Here you can find a weather forcast for cities around the world. It uses an API from Accuweather and is written with vanilla Javascript. The app also shows you the weather image and Icon and has an acceptable visualization same as well known ones.",
-    link:"",
+    // link:"https://github.com/Elhamdorudian/my-weather-app",
     github:"https://github.com/Elhamdorudian/my-weather-app"
   },
   {
     id:3,
-    title:"Todo List",
-    img: Todo,
-    content: "Use Todo List app to add your tasks and manage them easily. You can both add tasks and delete them if needed. It has also a search bar where you can easily search the tasks.",
-    link:"https://elhamdorudian.github.io/Todo_List/",
-    github:"https://github.com/Elhamdorudian/Todo_List"
+    title:"Repo Explorer",
+    img: RepoList,
+    content: "This Project uses Node/express and TypeScript/React to aggregate Github repos using several APIs, and an internal src, showing them in a grid list, with details pages",
+    // link:"https://github.com/Elhamdorudian/repository-explorer",
+    github:"https://github.com/Elhamdorudian/repository-explorer"
   },
+  // {
+  //   id:3,
+  //   title:"Todo List",
+  //   img: Todo,
+  //   content: "Use Todo List app to add your tasks and manage them easily. You can both add tasks and delete them if needed. It has also a search bar where you can easily search the tasks.",
+  //   link:"https://elhamdorudian.github.io/Todo_List/",
+  //   github:"https://github.com/Elhamdorudian/Todo_List"
+  // },
   
     ];
 
