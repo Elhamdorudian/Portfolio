@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.ecd11058.css",
-    "main.js": "/portfolio/static/js/main.55653308.js",
+    "main.js": "/portfolio/static/js/main.0b969859.js",
     "static/js/787.28cb0dcd.chunk.js": "/portfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/RepoList.png": "/portfolio/static/media/RepoList.16ef09d2675089effdf7.png",
     "static/media/MyBlog.jpeg": "/portfolio/static/media/MyBlog.3a8976a350fe81d7e78e.jpeg",
     "static/media/Dashboard.png": "/portfolio/static/media/Dashboard.fe6f808d2d950602510b.png",
     "static/media/WeatherApp.jpeg": "/portfolio/static/media/WeatherApp.04d339e825a9e6fcea20.jpeg",
     "static/media/myPic.jpeg": "/portfolio/static/media/myPic.d2818e931bcc37c5d4f2.jpeg",
-    "static/media/Todo.jpeg": "/portfolio/static/media/Todo.bfe273f32976e3814c72.jpeg",
     "static/media/OverlayS.PNG": "/portfolio/static/media/OverlayS.136f5a00be2b3b7bf454.PNG",
     "static/media/OverlayL.PNG": "/portfolio/static/media/OverlayL.c6b2dd882a5aa4e0a994.PNG",
     "static/media/github.svg": "/portfolio/static/media/github.5d97bcd91e4f840d62362971717fb54e.svg",
@@ -15,11 +15,11 @@
     "index.html": "/portfolio/index.html",
     "static/media/link.svg": "/portfolio/static/media/link.e57fe67926f17de16a0e6ace3b6c493a.svg",
     "main.ecd11058.css.map": "/portfolio/static/css/main.ecd11058.css.map",
-    "main.55653308.js.map": "/portfolio/static/js/main.55653308.js.map",
+    "main.0b969859.js.map": "/portfolio/static/js/main.0b969859.js.map",
     "787.28cb0dcd.chunk.js.map": "/portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ecd11058.css",
-    "static/js/main.55653308.js"
+    "static/js/main.0b969859.js"
   ]
 }
