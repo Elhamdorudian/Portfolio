@@ -140,7 +140,7 @@ function App() {
       isSelected: true,
       company: "Mobile Telecommunication Company of Iran",
       location: "Tehran, Iran",
-      date: "Dec. 2020 - Aug. 2022",
+      date: "Dec. 2019 - Sep. 2022",
       content: "I have been working as a front-end developer for almost two years. some of my skills are: JS, React, TS, SASS, React Native, MUI,...",
     },
     {
@@ -149,7 +149,7 @@ function App() {
       isSelected: false,
       company: "Mobile Telecommunication Company of Iran",
       location: "Tehran, Iran",
-      date: "Jun. 2016 - Nov. 2020",
+      date: "Jun. 2016 - Nov. 2019",
       content: "I was a Digital Services Analyist in a Telecomunication company acting as a facilitator between technical and business teams for more than 4 years, familiar with Jira, PowerBI, Agile, Scrum, ...",
     },
     {
