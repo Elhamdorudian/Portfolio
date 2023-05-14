@@ -136,21 +136,21 @@ function App() {
   const [experiences, setExperiences] = useState([
     {
       id: 1,
-      title: "Front-End Developer",
+      title: "Web Developer",
       isSelected: true,
       company: "Mobile Telecommunication Company of Iran",
       location: "Tehran, Iran",
-      date: "Dec. 2019 - Sep. 2022",
-      content: "I have been working as a front-end developer for almost two years. some of my skills are: JS, React, TS, SASS, React Native, MUI,...",
+      date: "Dec. 2019 - Nov. 2022",
+      content: "I have been working as a web developer, with focus on Front-end for almost three years. some of my skills are: JavaScript, React, TypeScript, Python, CSS, HTML, MUI, ...",
     },
     {
       id: 2,
-      title: "Digital Services Analyst",
+      title: "Business Analyst (Digital Services)",
       isSelected: false,
       company: "Mobile Telecommunication Company of Iran",
       location: "Tehran, Iran",
       date: "Jun. 2016 - Nov. 2019",
-      content: "I was a Digital Services Analyist in a Telecomunication company acting as a facilitator between technical and business teams for more than 4 years, familiar with Jira, PowerBI, Agile, Scrum, ...",
+      content: "I have extensive experience as a Business Analyst in IT providing effective solutions to stakeholders based on their technical and business requirements.",
     },
     {
       id: 3,
@@ -159,7 +159,7 @@ function App() {
       company: "Sharif University of Technology",
       location: "Tehran, Iran",
       date: "Sep 2013 - Feb 2016",
-      content: "I have studied MSc. in Business Administration with specialization in marketing and fincance.",
+      content: "MSc. in Business Administration with specialization in marketing and fincance.",
     },
     {
       id: 4,
@@ -168,7 +168,7 @@ function App() {
       company: "Sharif University of Technology",
       location: "Tehran, Iran",
       date: "Sep 2008 - Aug 2013",
-      content: "As I have always been interested in math, analytical thinking, and modeling... So I had decided to study Engineering in my BSc.",
+      content: "BSc. in Mechanical Engineering",
     },
 ]);
 
