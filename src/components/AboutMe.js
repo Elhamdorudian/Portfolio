@@ -10,7 +10,7 @@ const AboutMe = () => {
     "React",
     "Typescript",
     "Python",
-    "Node.js",
+    "NodeJS/NestJS",
     "CSS",
     "HTML",
     "Jest"
